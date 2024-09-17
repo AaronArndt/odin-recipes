@@ -5,4 +5,18 @@
 
 h1{
     font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.section{
+    background-color: bisque;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
 }
